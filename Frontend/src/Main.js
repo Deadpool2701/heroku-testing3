@@ -19,7 +19,7 @@ function App() {
     return (
         <div className={styles.Body}>
         <form className={styles.Form}>
-            <h1 className={styles.Header}>hEroku-deployment-next-flask</h1>
+            <h1 className={styles.Header}>heroku-deployment-next-flask</h1>
             <input type="text" id="check" /><br/><br/>
             <button className={styles.Button} onClick={send}>Send it</button>
             <ul>
